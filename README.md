@@ -83,7 +83,7 @@ Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/weslley-barbos
 
 <p>
   <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ueslleybarbosa&theme=blue-green&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ueslleybarbosa&theme=blue-green&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=10&exclude_repo=Ueslleybarbosa.github.io" 
       alt="Linguagens mais usadas de Weslley Barbosa" 
       style="height: 200px;" 
   />
