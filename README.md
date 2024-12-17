@@ -91,6 +91,7 @@ Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/weslley-barbos
 
 ### 🌐 Projetos
 
+[Projeto Cordel](https://ueslleybarbosa.github.io/projeto-cordel/)
 <p>
   <a href="https://github.com/Ueslleybarbosa/projeto-cordel">
     <img 
@@ -100,4 +101,3 @@ Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/weslley-barbos
     />
   </a>
 </p>
-
