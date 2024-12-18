@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Olá! Sou Weslley Barbosa, um desenvolvedor de 23 anos, natural de São Paulo. Sou apaixonado por segurança da informação e sempre estou em busca de aprimorar meus conhecimentos nesse campo, além de continuar evoluindo como desenvolvedor front-end.
+Olá! Sou Weslley Barbosa, um desenvolvedor de 23 anos, natural de São Paulo. Sou apaixonado por segurança da informação e sempre estou em busca de aprimorar meus conhecimentos nesse campo, além de continuar evoluindo como desenvolvedor.
 
 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/weslley-barbosa) e no [Medium](https://medium.com/@ueslleybarbosa), onde compartilho meus estudos sobre segurança da informação, programação e outras áreas de interesse.
 
@@ -27,7 +27,7 @@ Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/weslley-barbos
 
 ### 🤖 Linguagens e Tecnologias
 
-Sou apaixonado por tecnologias de front-end e estou sempre em busca de novos desafios. Abaixo estão algumas das principais ferramentas e linguagens que utilizo:
+Sou apaixonado por tecnologias e estou sempre em busca de novos desafios. Abaixo estão algumas das principais ferramentas e linguagens que utilizo:
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
