@@ -1,10 +1,10 @@
 # 👨‍💻 Weslley Barbosa
 
-**`Desenvolvedor Front-End`**  
+**`Desenvolvedor`**
 
-Olá! Sou Weslley Barbosa, um desenvolvedor de 23 anos, natural de São Paulo. Além disso, sou apaixonado por segurança da informação e sempre busco aprender mais sobre esse universo.
+Olá! Sou Weslley Barbosa, um desenvolvedor de 23 anos, natural de São Paulo. Sou apaixonado por segurança da informação e sempre estou em busca de aprimorar meus conhecimentos nesse campo, além de continuar evoluindo como desenvolvedor front-end.
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/weslley-barbosa) e no [Medium](https://medium.com/@ueslleybarbosa), onde compartilho meus estudos sobre segurança da informação, programação e outros tópicos relacionados.
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/weslley-barbosa) e no [Medium](https://medium.com/@ueslleybarbosa), onde compartilho meus estudos sobre segurança da informação, programação e outras áreas de interesse.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/weslley-barbosa">
@@ -27,7 +27,7 @@ Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/weslley-barbos
 
 ### 🤖 Linguagens e Tecnologias
 
-Sou apaixonado por tecnologias de front-end e sempre estou em busca de aprimoramento contínuo. Abaixo estão as principais tecnologias com as quais trabalho e estudo:
+Sou apaixonado por tecnologias de front-end e estou sempre em busca de novos desafios. Abaixo estão algumas das principais ferramentas e linguagens que utilizo:
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -41,7 +41,7 @@ Sou apaixonado por tecnologias de front-end e sempre estou em busca de aprimoram
 
 ### 📊 Estatísticas
 
-Abaixo estão as estatísticas de uso de linguagens e meus principais repositórios no GitHub:
+Aqui estão as estatísticas de uso das linguagens que mais utilizo, além de um resumo dos meus repositórios no GitHub:
 
 <p>
   <img 
@@ -55,7 +55,7 @@ Abaixo estão as estatísticas de uso de linguagens e meus principais repositór
 
 ### 🌐 Projetos
 
-Confira abaixo um dos meus projetos mais recentes. Sinta-se à vontade para explorar e dar sugestões!
+Confira um dos meus projetos mais recentes: **Projeto Cordel**. É uma aplicação feita apenas com **HTML5** e **CSS3**, utilizando o efeito parallax para criar um design dinâmico e imersivo.
 
 [Projeto Cordel](https://ueslleybarbosa.github.io/projeto-cordel/)
 
@@ -73,6 +73,6 @@ Confira abaixo um dos meus projetos mais recentes. Sinta-se à vontade para expl
 
 ### 🧠 Interessado em Algoritmos
 
-Sou fascinado por algoritmos e sempre busco aprimorar minha lógica de programação. Um desenvolvedor bem-sucedido é aquele que sabe como resolver problemas de maneira eficiente e criativa!
+Sou fascinado por algoritmos e estou constantemente aprimorando minha lógica de programação. Acredito que um bom desenvolvedor é aquele que resolve problemas de maneira eficiente e criativa!
 
 ⚙️🧠
