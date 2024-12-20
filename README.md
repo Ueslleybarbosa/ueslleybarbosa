@@ -70,9 +70,3 @@ Confira um dos meus projetos mais recentes: **Projeto Cordel**. É uma aplicaç�
 </p>
 
 ---
-
-### 🧠 Interessado em Algoritmos
-
-Sou fascinado por algoritmos e estou constantemente aprimorando minha lógica de programação. Acredito que um bom desenvolvedor é aquele que resolve problemas de maneira eficiente e criativa!
-
-⚙️🧠
