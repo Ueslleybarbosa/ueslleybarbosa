@@ -35,18 +35,27 @@ Sou apaixonado por tecnologias e estou sempre em busca de novos desafios. Abaixo
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
 <br />
 <br />
 
 ### 📊 Estatísticas
 
-Aqui estão as estatísticas de uso das linguagens que mais utilizo, além de um resumo dos meus repositórios no GitHub:
+Aqui estão as estatísticas de uso das linguagens que mais utilizo, além da contagem total de commits feitos:
 
 <p>
   <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ueslleybarbosa&theme=blue-green&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=10&exclude_repo=Ueslleybarbosa.github.io" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ueslleybarbosa&theme=blue-green&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=10&exclude_repo=Ueslleybarbosa.github.io&count_private=true" 
       alt="Linguagens mais usadas de Weslley Barbosa" 
+      style="height: 200px; border: 2px solid #007BFF; border-radius: 10px;" 
+  />
+</p>
+
+<p>
+  <img 
+      src="https://github-readme-stats.vercel.app/api?username=Ueslleybarbosa&show_icons=true&theme=blue-green&count_private=true&hide=prs,issues,contribs&custom_title=Total%20de%20Commits" 
+      alt="Total de commits de Weslley Barbosa" 
       style="height: 200px; border: 2px solid #007BFF; border-radius: 10px;" 
   />
 </p>
