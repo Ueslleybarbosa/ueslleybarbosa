@@ -28,26 +28,3 @@ Sou apaixonado por tecnologias e estou sempre em busca de novos desafios. Abaixo
 
 <br />
 <br />
-
-### 📊 Estatísticas
-
-Aqui estão as estatísticas de uso das linguagens que mais utilizo, além da contagem total de commits feitos:
-
-<p>
-  <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ueslleybarbosa&theme=blue-green&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=10&exclude_repo=Ueslleybarbosa.github.io&count_private=true" 
-      alt="Linguagens mais usadas de Weslley Barbosa" 
-      style="height: 200px; border: 2px solid #007BFF; border-radius: 10px;" 
-  />
-</p>
-
-<p>
-  <img 
-      src="https://github-readme-stats.vercel.app/api?username=Ueslleybarbosa&show_icons=true&theme=blue-green&count_private=true&hide=prs,issues,contribs&custom_title=Total%20de%20Commits" 
-      alt="Total de commits de Weslley Barbosa" 
-      style="height: 200px; border: 2px solid #007BFF; border-radius: 10px;" 
-  />
-</p>
-
----
-
